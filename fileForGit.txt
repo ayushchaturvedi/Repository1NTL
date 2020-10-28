@@ -1,1 +1,2 @@
 Hello world
+we are doing some changes to the current file.
